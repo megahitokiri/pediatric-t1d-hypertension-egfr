@@ -1,0 +1,25 @@
+Characteristic,Value
+N,2395
+"Age at T1D diagnosis, mean +/- SD",11.2 +/- 5.6
+"Age at T1D diagnosis, median [Q1, Q3]","11 [6.99, 15]"
+"Age at last follow-up, mean +/- SD",18.3 +/- 5.3
+"Age at last follow-up, median [Q1, Q3]","19 [14.84, 22.63]"
+"Follow-up years, mean +/- SD",7.8 +/- 5.2
+"Follow-up years, median [Q1, Q3]","6.75 [3.4, 11.38]"
+"Visit count, mean +/- SD",29.3 +/- 26.8
+"Visit count, median [Q1, Q3]","24 [13, 38]"
+"Unique BP days, mean +/- SD",10.4 +/- 20.3
+"Unique BP days, median [Q1, Q3]","6 [4, 11]"
+Sex: F,1190 (49.7%)
+Sex: M,1205 (50.3%)
+Diabetes type: IMPUTED_T1D,1514 (63.2%)
+Diabetes type: T1D,881 (36.8%)
+Age at diagnosis bin: 0-4,351 (14.7%)
+Age at diagnosis bin: 5-9,663 (27.7%)
+Age at diagnosis bin: 10-14,733 (30.6%)
+Age at diagnosis bin: 15-19,463 (19.3%)
+Age at diagnosis bin: 20-24,185 (7.7%)
+N with adult BP,1360
+"Adult BP days, median [Q1, Q3]","6 [4, 12]"
+"Adult HTN >=2 days, %",57.8
+"Adult stage 2 HTN >=2 days, %",10
